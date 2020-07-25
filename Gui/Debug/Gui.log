@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Emircan\source\repos\Gui\Gui\Main.cpp(6,14): warning C4101: 'window': yerel değişken başvurusu kaldırıldı
+Main.obj : error LNK2019: çözümlenmemiş dış sembol _glfwInit için _main işlevinde başvuruldu
+C:\Users\Emircan\source\repos\Gui\Gui\Library\glfw3.lib : warning LNK4272: 'x64' kitaplık makine türü, 'x86' hedef makine türüyle çakışıyor
+C:\Users\Emircan\source\repos\Gui\Debug\Gui.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
